@@ -1,0 +1,35 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 640 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="digital twin art v2">
+<path id="Vector" d="M320 456C459.176 456 572 427.346 572 392C572 356.654 459.176 328 320 328C180.824 328 68 356.654 68 392C68 427.346 180.824 456 320 456Z" fill="var(--fill-0, #EDECEA)"/>
+<path id="Vector_2" d="M320 444C459.176 444 572 415.346 572 380C572 344.654 459.176 316 320 316C180.824 316 68 344.654 68 380C68 415.346 180.824 444 320 444Z" fill="var(--fill-0, #FAFAF9)" stroke="var(--stroke-0, #E6E4E0)"/>
+<path id="Vector_3" d="M320 472C485.685 472 620 433.496 620 386C620 338.504 485.685 300 320 300C154.315 300 20 338.504 20 386C20 433.496 154.315 472 320 472Z" stroke="var(--stroke-0, #9AA0AB)" stroke-opacity="0.4" stroke-dasharray="5 8"/>
+<path id="Vector_4" d="M580 337C583.866 337 587 333.866 587 330C587 326.134 583.866 323 580 323C576.134 323 573 326.134 573 330C573 333.866 576.134 337 580 337Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_5" d="M580 344C587.732 344 594 337.732 594 330C594 322.268 587.732 316 580 316C572.268 316 566 322.268 566 330C566 337.732 572.268 344 580 344Z" stroke="var(--stroke-0, #FF5A48)" stroke-opacity="0.4"/>
+<path id="Vector_6" d="M324 266H252V362H324V266Z" fill="var(--fill-0, #3B4252)"/>
+<path id="Vector_7" d="M324 362V266L356 248V344L324 362Z" fill="var(--fill-0, #565F73)"/>
+<path id="Vector_8" d="M252 266L284 248H356L324 266H252Z" fill="var(--fill-0, white)" stroke="var(--stroke-0, #E6E4E0)"/>
+<path id="Vector_9" d="M276 280H262V291H276V280Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_10" d="M298 280H284V291H298V280Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_11" d="M276 300H262V311H276V300Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_12" d="M298 300H284V311H298V300Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_13" d="M276 320H262V331H276V320Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_14" d="M298 320H284V331H298V320Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_15" d="M454 306H396V368H454V306Z" fill="var(--fill-0, #3B4252)"/>
+<path id="Vector_16" d="M454 368V306L482 290V352L454 368Z" fill="var(--fill-0, #565F73)"/>
+<path id="Vector_17" d="M396 306L424 290H482L454 306H396Z" fill="var(--fill-0, white)" stroke="var(--stroke-0, #E6E4E0)"/>
+<path id="Vector_18" d="M417 318H405V327H417V318Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_19" d="M436 318H424V327H436V318Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_20" d="M417 335H405V344H417V335Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_21" d="M436 335H424V344H436V335Z" fill="var(--fill-0, #F4F3F1)"/>
+<path id="Vector_22" d="M186 372V172" stroke="var(--stroke-0, #3B4252)" stroke-width="6"/>
+<path id="Vector_23" d="M110 188H320" stroke="var(--stroke-0, #3B4252)" stroke-width="5"/>
+<path id="Vector_24" d="M320 188L186 152L110 188M186 152V172" stroke="var(--stroke-0, #3B4252)" stroke-width="3"/>
+<path id="Vector_25" d="M142 188H116V204H142V188Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_26" d="M292 188V252" stroke="var(--stroke-0, #3B4252)" stroke-width="2" stroke-dasharray="4 4"/>
+<path id="Vector_27" d="M300 252H284V264H300V252Z" fill="var(--fill-0, #FF5A48)"/>
+<path id="Vector_28" d="M150 402H194M154 410H190" stroke="var(--stroke-0, #9AA0AB)" stroke-width="3"/>
+<path id="Vector_29" d="M510 384H474C471.791 384 470 385.791 470 388V400C470 402.209 471.791 404 474 404H510C512.209 404 514 402.209 514 400V388C514 385.791 512.209 384 510 384Z" fill="var(--fill-0, #3B4252)"/>
+<path id="Vector_30" d="M480 412C483.314 412 486 409.314 486 406C486 402.686 483.314 400 480 400C476.686 400 474 402.686 474 406C474 409.314 476.686 412 480 412Z" fill="var(--fill-0, #22252B)"/>
+<path id="Vector_31" d="M504 412C507.314 412 510 409.314 510 406C510 402.686 507.314 400 504 400C500.686 400 498 402.686 498 406C498 409.314 500.686 412 504 412Z" fill="var(--fill-0, #22252B)"/>
+</g>
+</svg>
