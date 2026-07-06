@@ -1,35 +1,40 @@
-# NOMAD BUILD — AI Web Interaction Demo
+# NOMAD BUILD — AI веб харилцан үйлчлэлийн демо
 
-A static Next.js implementation of the "NOMAD BUILD" construction-management
-landing page, built from [Figma](https://www.figma.com/design/VITeKdA9ofn2MXsF0sLghy)
-for a lesson on prompting AI to add motion to a web page.
+"NOMAD BUILD" барилгын менежментийн лэндинг хуудасны статик Next.js
+хэрэгжилт бөгөөд [Figma](https://www.figma.com/design/VITeKdA9ofn2MXsF0sLghy)
+загвар дээр үндэслэн, вэб хуудсанд хөдөлгөөн (motion) нэмэхийг AI-аар
+prompt хийж сургах хичээлд зориулав.
 
-## Stack
+## Технологи
 
 - Next.js 15 (App Router) + TypeScript
 - Tailwind CSS v4
-- `framer-motion` is installed but **not used anywhere yet** — that's the point.
+- `framer-motion` суулгагдсан ч **одоогоор хаана ч ашиглагдаагүй** — энэ нь
+  зориудын зүйл.
 
-## Getting started
+## Эхлэх нь
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+[http://localhost:3000](http://localhost:3000) хаягаар нээнэ үү.
 
-## For the lesson
+## Хичээлийн зорилго
 
-Every section in [components/sections/](components/sections/) renders as a
-static, motionless layout. The exercise is to prompt an AI coding assistant to
-introduce animation — page load transitions, scroll reveals, hover states,
-tab/FAQ open-close transitions — using the already-installed `framer-motion`
-package.
+[components/sections/](components/sections/) доторх бүх хэсэг статик,
+хөдөлгөөнгүй байдлаар зурагдана. Даалгавар бол суулгасан `framer-motion`
+сан ашиглан хуудас ачаалах шилжилт, гүйлгэх үеийн гарч ирэлт, hover
+төлөв, tab/FAQ нээгдэх-хаагдах шилжилтүүд зэрэг хөдөлгөөнийг AI
+кодлогч туслахаар prompt хийлгэн нэмүүлэх явдал юм.
 
-Good starting prompts to try:
+Туршиж болох эхлэлийн prompt-ууд:
 
-- "Animate the Hero section so the heading and buttons fade/slide in on load."
-- "Add a stagger animation to the drone gallery photos as they scroll into view."
-- "Animate the FAQ accordion open/close with `AnimatePresence`."
-- "Add a smooth transition when switching tabs in the Technology section."
+- "Hero хэсгийн гарчиг, товчнуудыг ачаалах үед fade/slide хийж гарч ирэх
+  болго."
+- "Дрон агшнуудын галерейн зургууд гүйлгэх үед дараалан (stagger) гарч
+  ирэх анимаци нэм."
+- "FAQ аккордионы нээх-хаах шилжилтийг `AnimatePresence`-ээр анимацит
+  болго."
+- "Технологийн давхаргын tab солиход зөөлөн шилжилт нэм."
